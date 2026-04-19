@@ -1,0 +1,9 @@
+[package]
+name = "plato-room-engine"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75"
+
+[lib]
+name = "plato_room_engine"
+path = "src/lib.rs"
